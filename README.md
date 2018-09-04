@@ -1,4 +1,6 @@
 # Anime-videos-downloader
+Project is currently out of service.
+
 A command line based python web automation script to download complete seasons of anime.  
 This is used to download anime seasons from otakustream.tv. Use simple command line interface to download any anime of choice.  
 Steps:  
