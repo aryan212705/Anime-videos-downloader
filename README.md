@@ -12,5 +12,6 @@ Steps:
 Requirements:  
   1. Python 3  
   2. Selenium
-  
+  3. Either one of Chromedriver, Geckodriver or PhantomJS in the same directory as anime-downloader.py file
+ 
 Websites: https://cartooncrazy.tv/ and https://thewatchcartoononline.tv/  
