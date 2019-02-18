@@ -6,11 +6,12 @@ This is used to download anime seasons from otakustream.tv. Use simple command l
 Steps:  
   1. Type the name of anime  
   2. Select the season or movie  
-  3. Select quality  
-  4. Let the videos download  
+  3. Select the episodes to download
+  4. And let the videos download  
   5. Done  
   
 Requirements:  
   1. Python 3  
+  2. Selenium
   
-Special thanks to: https://otakustream.tv/  
+Websites: https://cartooncrazy.tv/ and https://thewatchcartoononline.tv/  
